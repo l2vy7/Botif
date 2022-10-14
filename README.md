@@ -4,4 +4,6 @@ This is our Botif (BetaTool Notif), the system for notifications we use in our s
 ### Credits
 acai/l2vy7 made this system. Full credit goes to him.
 ### Usage
-It is requied that you give credit to BetaTool Devs and link to either our Github profile or this Repository.
+idc what you do with this LOL you dont need to do anything with it.
+
+licensed under dwtfywtpl
