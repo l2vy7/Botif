@@ -6,4 +6,4 @@ acai/l2vy7 made this system. Full credit goes to him.
 ### Usage
 idc what you do with this LOL you dont need to do anything with it.
 
-licensed under dwtfywtpl
+licensed under wtfpl
